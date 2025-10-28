@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <RootNamespace>WTT_CornerStore</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <OutputType>Library</OutputType>
+    <Version>1.0.0</Version>
+    <!-- The two lines below will set the output path for the binaries -->
+    <OutputPath>bin\$(Configuration)\$(ProjectName)\$(AssemblyName)\</OutputPath>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SPTarkov.Common" Version="4.0.1" />
+    <PackageReference Include="SPTarkov.DI" Version="4.0.1" />
+    <PackageReference Include="SPTarkov.Reflection" Version="4.0.1" />
+    <PackageReference Include="SPTarkov.Server.Core" Version="4.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="WTT-ServerCommonLib">
+      <HintPath>..\..\..\SPT\user\mods\WTT-ServerCommonLib\WTT-ServerCommonLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+      <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+        <Exec Command="REM Copy to SPT user mods directory&#xA;set MODNAME=$(TargetName)&#xA;set DLLPATH=$(TargetDir)$(TargetName).dll&#xA;set OUTDIR=..\..\..\SPT\user\mods\%MODNAME%&#xA;if not exist &quot;%OUTDIR%&quot; mkdir &quot;%OUTDIR%&quot;&#xA;copy /Y &quot;%DLLPATH%&quot; &quot;%OUTDIR%\&quot;&#xA;&#xA;REM Copy to Build/SPT/user/mods directory&#xA;set BUILDOUTDIR=..\Build\SPT\user\mods\%MODNAME%&#xA;if not exist &quot;%BUILDOUTDIR%&quot; mkdir &quot;%BUILDOUTDIR%&quot;&#xA;copy /Y &quot;%DLLPATH%&quot; &quot;%BUILDOUTDIR%\&quot;&#xA;"/>
+    </Target>
+</Project>
