@@ -1,0 +1,870 @@
+{
+	"66d3cadda5946c9b0c4d7148": {
+		"itemTplToClone": "5751496424597720a27126da",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"Prefab": {
+				"path": "Food_Items/Redbull/food_redbull_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/Redbull/food_redbull.bundle",
+				"rcid": ""
+			},
+			"StimulatorBuffs": "redbull_buffs",
+			"effects_health": {
+				"Hydration": {
+					"value": 20
+				},
+				"Energy": {
+					"value": 30
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Red Bull",
+				"shortName": "RedBull",
+				"description": "Red Bull"
+			}
+		},
+		"clearClonedProps": false,
+		"fleaPriceRoubles": 100000,
+		"handbookPriceRoubles": 95000,
+		"addtoTraders": true,
+		"traders": {
+			"SKIER": {
+				"6900ba074961aaf08f997299": {
+					"barterSettings": {
+						"loyalLevel": 1,
+						"unlimitedCount": false,
+						"stackObjectsCount": 5
+					},
+					"barters": [
+						{
+							"count": 375,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": [
+			"LOOTCONTAINER_JACKET",
+			"LOOTCONTAINER_DUFFLE_BAG_ADV",
+			"LOOTCONTAINER_RATION_SUPPLY_CRATE"
+		],
+		"Probability": 100
+	},
+	"66d4f8b717dcce4ae2252123": {
+		"itemTplToClone": "5751496424597720a27126da",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"Prefab": {
+				"path": "Food_Items/Redbull/food_redbull_green_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/Redbull/food_redbull_green.bundle",
+				"rcid": ""
+			},
+			"StimulatorBuffs": "redbull_dragonfruit_buffs",
+			"effects_health": {
+				"Hydration": {
+					"value": 25
+				},
+				"Energy": {
+					"value": 35
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Dragonfruit Red Bull",
+				"shortName": "Wings",
+				"description": "Dragonfruit Flavored Red Bull."
+			}
+		},
+		"clearClonedProps": false,
+		"fleaPriceRoubles": 100500,
+		"handbookPriceRoubles": 95500,
+		"addtoTraders": true,
+		"traders": {
+			"SKIER": {
+				"6900b92c2d5100956780f0a1": {
+					"barterSettings": {
+						"loyalLevel": 1,
+						"unlimitedCount": false,
+						"stackObjectsCount": 2
+					},
+					"barters": [
+						{
+							"count": 380,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": [
+			"LOOTCONTAINER_JACKET",
+			"LOOTCONTAINER_DUFFLE_BAG_ADV",
+			"LOOTCONTAINER_RATION_SUPPLY_CRATE"
+		],
+		"Probability": 50
+	},
+	"66d4f9274de617daa8438ab4": {
+		"itemTplToClone": "5751496424597720a27126da",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"Prefab": {
+				"path": "Food_Items/Redbull/food_redbull_blue_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/Redbull/food_redbull_blue.bundle",
+				"rcid": ""
+			},
+			"StimulatorBuffs": "redbull_blueberry_buffs",
+			"effects_health": {
+				"Hydration": {
+					"value": 25
+				},
+				"Energy": {
+					"value": 35
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Blueberry Red Bull",
+				"shortName": "Wings",
+				"description": "Blueberry Flavored Red Bull."
+			}
+		},
+		"clearClonedProps": false,
+		"fleaPriceRoubles": 100500,
+		"handbookPriceRoubles": 95500,
+		"addtoTraders": true,
+		"traders": {
+			"SKIER": {
+				"6900b938eb5b78e41e1aaef1": {
+					"barterSettings": {
+						"loyalLevel": 1,
+						"unlimitedCount": false,
+						"stackObjectsCount": 2
+					},
+					"barters": [
+						{
+							"count": 375,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": [
+			"LOOTCONTAINER_JACKET",
+			"LOOTCONTAINER_DUFFLE_BAG_ADV",
+			"LOOTCONTAINER_RATION_SUPPLY_CRATE"
+		],
+		"Probability": 50
+	},
+	"66d4f936a8631392eccf23b9": {
+		"itemTplToClone": "5751496424597720a27126da",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"Prefab": {
+				"path": "Food_Items/Redbull/food_redbull_orange_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/Redbull/food_redbull_orange.bundle",
+				"rcid": ""
+			},
+			"StimulatorBuffs": "redbull_orange_buffs",
+			"effects_health": {
+				"Hydration": {
+					"value": 40
+				},
+				"Energy": {
+					"value": 22
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Strawberry Apricot Red Bull",
+				"shortName": "Wings",
+				"description": "Strawberry Apricot Flavored Red Bull."
+			}
+		},
+		"clearClonedProps": false,
+		"fleaPriceRoubles": 110000,
+		"handbookPriceRoubles": 95750,
+		"addtoTraders": true,
+		"traders": {
+			"SKIER": {
+				"6900b9627411db19f365be9e": {
+					"barterSettings": {
+						"loyalLevel": 2,
+						"unlimitedCount": false,
+						"stackObjectsCount": 3
+					},
+					"barters": [
+						{
+							"count": 380,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": [
+			"LOOTCONTAINER_JACKET",
+			"LOOTCONTAINER_DUFFLE_BAG_ADV",
+			"LOOTCONTAINER_RATION_SUPPLY_CRATE"
+		],
+		"Probability": 50
+	},
+	"66d4f93e41ef41636be3c8dc": {
+		"itemTplToClone": "5751496424597720a27126da",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"Prefab": {
+				"path": "Food_Items/Redbull/food_redbull_peach_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/Redbull/food_redbull_peach.bundle",
+				"rcid": ""
+			},
+			"StimulatorBuffs": "redbull_peach_buffs",
+			"effects_health": {
+				"Hydration": {
+					"value": 50
+				},
+				"Energy": {
+					"value": 50
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Peach Nectarine Red Bull",
+				"shortName": "Wings",
+				"description": "Peach Nectarine Flavored Red Bull."
+			}
+		},
+		"clearClonedProps": false,
+		"fleaPriceRoubles": 200000,
+		"handbookPriceRoubles": 155000,
+		"addtoTraders": false,
+		"traders": {
+			"SKIER": {
+				"6900b96b26ab9fefcaf5df52": {
+					"barterSettings": {
+						"loyalLevel": 3,
+						"unlimitedCount": false,
+						"stackObjectsCount": 1
+					},
+					"barters": [
+						{
+							"count": 550,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": [
+			"LOOTCONTAINER_JACKET",
+			"LOOTCONTAINER_DUFFLE_BAG_ADV",
+			"LOOTCONTAINER_RATION_SUPPLY_CRATE"
+		],
+		"Probability": 50
+	},
+	"66d4f947eb04da7c681d40db": {
+		"itemTplToClone": "5751496424597720a27126da",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"Prefab": {
+				"path": "Food_Items/Redbull/food_redbull_red_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/Redbull/food_redbull_red.bundle",
+				"rcid": ""
+			},
+			"StimulatorBuffs": "redbull_watermelon_buffs",
+			"effects_health": {
+				"Hydration": {
+					"value": 20
+				},
+				"Energy": {
+					"value": 45
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Watermelon Red Bull",
+				"shortName": "Wings",
+				"description": "Watermelon Flavored Red Bull."
+			}
+		},
+		"clearClonedProps": false,
+		"fleaPriceRoubles": 110000,
+		"handbookPriceRoubles": 95750,
+		"addtoTraders": true,
+		"traders": {
+			"SKIER": {
+				"6900b97beb1d5d87e095da73": {
+					"barterSettings": {
+						"loyalLevel": 2,
+						"unlimitedCount": false,
+						"stackObjectsCount": 3
+					},
+					"barters": [
+						{
+							"count": 400,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": [
+			"LOOTCONTAINER_JACKET",
+			"LOOTCONTAINER_DUFFLE_BAG_ADV",
+			"LOOTCONTAINER_RATION_SUPPLY_CRATE"
+		],
+		"Probability": 50
+	},
+	"66d4f951b53df28c0cab33e5": {
+		"itemTplToClone": "5751496424597720a27126da",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"Prefab": {
+				"path": "Food_Items/Redbull/food_redbull_yellow_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/Redbull/food_redbull_yellow.bundle",
+				"rcid": ""
+			},
+			"StimulatorBuffs": "redbull_tropical_buffs",
+			"effects_health": {
+				"Hydration": {
+					"value": 30
+				},
+				"Energy": {
+					"value": 30
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Tropical Red Bull",
+				"shortName": "Wings",
+				"description": "Tropical Punch Flavored Red Bull."
+			}
+		},
+		"clearClonedProps": false,
+		"fleaPriceRoubles": 100000,
+		"handbookPriceRoubles": 95000,
+		"addtoTraders": true,
+		"traders": {
+			"SKIER": {
+				"6900b98edf2474b39f9d9ff8": {
+					"barterSettings": {
+						"loyalLevel": 2,
+						"unlimitedCount": false,
+						"stackObjectsCount": 2
+					},
+					"barters": [
+						{
+							"count": 400,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": [
+			"LOOTCONTAINER_JACKET",
+			"LOOTCONTAINER_DUFFLE_BAG_ADV",
+			"LOOTCONTAINER_RATION_SUPPLY_CRATE"
+		],
+		"Probability": 50
+	},
+	"681fb4d7dc58b0f8a0855fdf": {
+		"itemTplToClone": "5751496424597720a27126da",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"Prefab": {
+				"path": "Food_Items/Redbull/food_redbull_white_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/Redbull/food_redbull_white.bundle",
+				"rcid": ""
+			},
+			"StimulatorBuffs": "redbull_tropical_buffs",
+			"effects_health": {
+				"Hydration": {
+					"value": 30
+				},
+				"Energy": {
+					"value": 40
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Coconut Berry Red Bull",
+				"shortName": "Wings",
+				"description": "Cocounut Berry Flavored Red Bull."
+			}
+		},
+		"clearClonedProps": false,
+		"fleaPriceRoubles": 100000,
+		"handbookPriceRoubles": 95000,
+		"addtoTraders": true,
+		"traders": {
+			"SKIER": {
+				"6900b9987543dd2ccbeaaf43": {
+					"barterSettings": {
+						"loyalLevel": 2,
+						"unlimitedCount": false,
+						"stackObjectsCount": 3
+					},
+					"barters": [
+						{
+							"count": 400,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": [
+			"LOOTCONTAINER_JACKET",
+			"LOOTCONTAINER_DUFFLE_BAG_ADV",
+			"LOOTCONTAINER_RATION_SUPPLY_CRATE"
+		],
+		"Probability": 50
+	},
+	"681fb5f7fc78e5a2461e4072": {
+		"itemTplToClone": "5751496424597720a27126da",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"Prefab": {
+				"path": "Food_Items/Redbull/food_redbull_pink_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/Redbull/food_redbull_pink.bundle",
+				"rcid": ""
+			},
+			"StimulatorBuffs": "redbull_watermelon_buffs",
+			"effects_health": {
+				"Hydration": {
+					"value": 30
+				},
+				"Energy": {
+					"value": 45
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Pink Edition Wild Berries Red Bull",
+				"shortName": "Wings",
+				"description": "Wild Berries Flavored Red Bull."
+			}
+		},
+		"clearClonedProps": false,
+		"fleaPriceRoubles": 100000,
+		"handbookPriceRoubles": 95000,
+		"addtoTraders": true,
+		"traders": {
+			"SKIER": {
+				"6900b9a22fca50c5147fc324": {
+					"barterSettings": {
+						"loyalLevel": 3,
+						"unlimitedCount": false,
+						"stackObjectsCount": 5
+					},
+					"barters": [
+						{
+							"count": 380,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": [
+			"LOOTCONTAINER_JACKET",
+			"LOOTCONTAINER_DUFFLE_BAG_ADV",
+			"LOOTCONTAINER_RATION_SUPPLY_CRATE"
+		],
+		"Probability": 50
+	},
+	"681fb688c241ca5128154c90": {
+		"itemTplToClone": "5751496424597720a27126da",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"Prefab": {
+				"path": "Food_Items/Redbull/food_redbull_wpeach_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/Redbull/food_redbull_wpeach.bundle",
+				"rcid": ""
+			},
+			"StimulatorBuffs": "redbull_peach_buffs",
+			"effects_health": {
+				"Hydration": {
+					"value": 50
+				},
+				"Energy": {
+					"value": 50
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Summer Edition White Peach Red Bull",
+				"shortName": "Wings",
+				"description": "Peach Necta-- I mean \"White Peach\" Flavored Red Bull."
+			}
+		},
+		"clearClonedProps": false,
+		"fleaPriceRoubles": 225000,
+		"handbookPriceRoubles": 195000,
+		"addtoTraders": false,
+		"traders": {
+			"SKIER": {
+				"6900b9ae8c97765e52450f06": {
+					"barterSettings": {
+						"loyalLevel": 4,
+						"unlimitedCount": false,
+						"stackObjectsCount": 5
+					},
+					"barters": [
+						{
+							"count": 600,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": [
+			"LOOTCONTAINER_JACKET",
+			"LOOTCONTAINER_DUFFLE_BAG_ADV",
+			"LOOTCONTAINER_RATION_SUPPLY_CRATE"
+		],
+		"Probability": 50
+	},
+	"681fb6ea16af88c95d79c886": {
+		"itemTplToClone": "5751496424597720a27126da",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"Prefab": {
+				"path": "Food_Items/Redbull/food_redbull_icedvanilla_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/Redbull/food_redbull_icedvanilla.bundle",
+				"rcid": ""
+			},
+			"StimulatorBuffs": "redbull_orange_buffs",
+			"effects_health": {
+				"Hydration": {
+					"value": 40
+				},
+				"Energy": {
+					"value": 40
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Winter Edition Iced Vanilla Berry Red Bull",
+				"shortName": "Wings",
+				"description": "Iced Vanilla Berry Flavored Red Bull."
+			}
+		},
+		"clearClonedProps": false,
+		"fleaPriceRoubles": 150000,
+		"handbookPriceRoubles": 145000,
+		"addtoTraders": false,
+		"traders": {
+			"SKIER": {
+				"6900b9d3afd9b366b8617c04": {
+					"barterSettings": {
+						"loyalLevel": 3,
+						"unlimitedCount": false,
+						"stackObjectsCount": 5
+					},
+					"barters": [
+						{
+							"count": 475,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": [
+			"LOOTCONTAINER_JACKET",
+			"LOOTCONTAINER_DUFFLE_BAG_ADV",
+			"LOOTCONTAINER_RATION_SUPPLY_CRATE"
+		],
+		"Probability": 50
+	},
+	"681fb764a0a922cd836b2796": {
+		"itemTplToClone": "5751496424597720a27126da",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"Prefab": {
+				"path": "Food_Items/Redbull/food_redbull_juneberry_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/Redbull/food_redbull_juneberry.bundle",
+				"rcid": ""
+			},
+			"StimulatorBuffs": "redbull_dragonfruit_buffs",
+			"effects_health": {
+				"Hydration": {
+					"value": 25
+				},
+				"Energy": {
+					"value": 35
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Sea Blue Edition Juneberry Flavored Red Bull",
+				"shortName": "Wings",
+				"description": "Juneberry Flavored Red Bull."
+			}
+		},
+		"clearClonedProps": false,
+		"fleaPriceRoubles": 100000,
+		"handbookPriceRoubles": 95000,
+		"addtoTraders": false,
+		"traders": {
+			"SKIER": {
+				"6900b9e05ad497fbd7772749": {
+					"barterSettings": {
+						"loyalLevel": 3,
+						"unlimitedCount": false,
+						"stackObjectsCount": 5
+					},
+					"barters": [
+						{
+							"count": 375,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": [
+			"LOOTCONTAINER_JACKET",
+			"LOOTCONTAINER_DUFFLE_BAG_ADV",
+			"LOOTCONTAINER_RATION_SUPPLY_CRATE"
+		],
+		"Probability": 50
+	},
+	"681fc32c7f015db07873dd99": {
+		"itemTplToClone": "5751496424597720a27126da",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"Prefab": {
+				"path": "Food_Items/Redbull/food_redbull_celderflower_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/Redbull/food_redbull_celderflower.bundle",
+				"rcid": ""
+			},
+			"StimulatorBuffs": "redbull_watermelon_buffs",
+			"effects_health": {
+				"Hydration": {
+					"value": 10
+				},
+				"Energy": {
+					"value": 55
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Green Edition Caruba Elderflower Red Bull",
+				"shortName": "Wings",
+				"description": "Caruba Elderflower Flavored Red Bull."
+			}
+		},
+		"clearClonedProps": false,
+		"fleaPriceRoubles": 100000,
+		"handbookPriceRoubles": 95000,
+		"addtoTraders": true,
+		"traders": {
+			"SKIER": {
+				"6900b9ed37813fbf6cb452c2": {
+					"barterSettings": {
+						"loyalLevel": 3,
+						"unlimitedCount": false,
+						"stackObjectsCount": 5
+					},
+					"barters": [
+						{
+							"count": 375,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": [
+			"LOOTCONTAINER_JACKET",
+			"LOOTCONTAINER_DUFFLE_BAG_ADV",
+			"LOOTCONTAINER_RATION_SUPPLY_CRATE"
+		],
+		"Probability": 50
+	},
+	"681fc39c1fcfd7b450a77665": {
+		"itemTplToClone": "5751496424597720a27126da",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"Prefab": {
+				"path": "Food_Items/Redbull/food_redbull_grapefruit_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/Redbull/food_redbull_grapefruit.bundle",
+				"rcid": ""
+			},
+			"StimulatorBuffs": "redbull_watermelon_buffs",
+			"effects_health": {
+				"Hydration": {
+					"value": 25
+				},
+				"Energy": {
+					"value": 45
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Spring Edition Grapefruit Blossom Elderflower Red Bull",
+				"shortName": "Wings",
+				"description": "Grapefruit Blossom Flavored Red Bull."
+			}
+		},
+		"clearClonedProps": false,
+		"fleaPriceRoubles": 100000,
+		"handbookPriceRoubles": 95000,
+		"addtoTraders": true,
+		"traders": {
+			"SKIER": {
+				"6900b9faa2e60249306c191e": {
+					"barterSettings": {
+						"loyalLevel": 3,
+						"unlimitedCount": false,
+						"stackObjectsCount": 5
+					},
+					"barters": [
+						{
+							"count": 390,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": [
+			"LOOTCONTAINER_JACKET",
+			"LOOTCONTAINER_DUFFLE_BAG_ADV",
+			"LOOTCONTAINER_RATION_SUPPLY_CRATE"
+		],
+		"Probability": 50
+	}
+}

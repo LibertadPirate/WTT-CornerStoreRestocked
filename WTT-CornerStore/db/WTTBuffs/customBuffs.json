@@ -1,0 +1,2310 @@
+{
+"Buffs": {
+"Geeked": [
+            {
+                "BuffType": "StaminaRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 180,
+                "Value": 200,
+                "AbsoluteValue": true,
+                "SkillName": ""
+            },
+            {
+                "BuffType": "WeightLimit",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 180,
+                "Value": 50,
+                "AbsoluteValue": true,
+                "SkillName": ""
+            },
+            {
+                "BuffType": "DamageModifier",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 180,
+                "Value": -15,
+                "AbsoluteValue": true,
+                "SkillName": ""
+            },
+            {
+                "BuffType": "HealthRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 180,
+                "Value": 3,
+                "AbsoluteValue": true,
+                "SkillName": ""
+            }
+],
+"YellowEyes": [
+            {
+                "BuffType": "StaminaRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 180,
+                "Value": 200,
+                "AbsoluteValue": true,
+                "SkillName": ""
+            },
+            {
+                "BuffType": "WeightLimit",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 180,
+                "Value": 10,
+                "AbsoluteValue": true,
+                "SkillName": ""
+            },
+            {
+                "BuffType": "DamageModifier",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 180,
+                "Value": -5,
+                "AbsoluteValue": true,
+                "SkillName": ""
+            },
+            {
+                "BuffType": "HealthRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 180,
+                "Value": 1,
+                "AbsoluteValue": true,
+                "SkillName": ""
+            }
+],
+"TemporaryAutism": [
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "Immunity"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "Metabolism"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "Endurance"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "Strength"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "Vitality"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "Health"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "StressResistance"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "Throwing"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "RecoilControl"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "Pistol"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "Revolver"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "Assault"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "Shotgun"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "Sniper"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "DMR"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "CovertMovement"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "FieldMedicine"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "LightVests"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "HeavyVests"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "WeaponTreatment"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "MagDrills"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "Perception"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "Intellect"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "Attention"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "Charisma"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "Memory"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "RecoilControl"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "TroubleShooting"
+            }
+],
+"Speeding": [
+            {
+                "BuffType": "HealthRate",
+                "Chance": 1,
+                "Delay": 300,
+                "Duration": 900,
+                "Value": -0.1,
+                "AbsoluteValue": true,
+                "SkillName": ""
+            },
+            {
+                "BuffType": "HealthRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 120,
+                "Value": 2,
+                "AbsoluteValue": true,
+                "SkillName": ""
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 600,
+                "Value": 100,
+                "AbsoluteValue": true,
+                "SkillName": "Health"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 300,
+                "Duration": 900,
+                "Value": -100,
+                "AbsoluteValue": true,
+                "SkillName": "Health"
+            },
+            {
+                "AbsoluteValue": true,
+                "BuffType": "QuantumTunnelling",
+                "Chance": 1,
+                "Delay": 270,
+                "Duration": 30,
+                "SkillName": "",
+                "Value": 0
+            },
+            {
+                "BuffType": "HandsTremor",
+                "Chance": 1,
+                "Delay": 300,
+                "Duration": 900,
+                "Value": 0,
+                "AbsoluteValue": true,
+                "SkillName": ""
+            },
+            {
+                "BuffType": "StaminaRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 180,
+                "Value": 200,
+                "AbsoluteValue": true,
+                "SkillName": ""
+            },
+            {
+                "BuffType": "StaminaRate",
+                "Chance": 1,
+                "Delay": 180,
+                "Duration": 900,
+                "Value": -5,
+                "AbsoluteValue": true,
+                "SkillName": ""
+            },
+            {
+                "BuffType": "WeightLimit",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 180,
+                "Value": 60,
+                "AbsoluteValue": true,
+                "SkillName": ""
+            },
+            {
+                "BuffType": "DamageModifier",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 180,
+                "Value": -15,
+                "AbsoluteValue": true,
+                "SkillName": ""
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 300,
+                "Duration": 300,
+                "Value": -15,
+                "AbsoluteValue": true,
+                "SkillName": "Immunity"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "Immunity"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": -25,
+                "AbsoluteValue": true,
+                "SkillName": "Metabolism"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 25,
+                "AbsoluteValue": true,
+                "SkillName": "Endurance"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 180,
+                "Duration": 300,
+                "Value": -15,
+                "AbsoluteValue": true,
+                "SkillName": "Endurance"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "Strength"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 180,
+                "Duration": 300,
+                "Value": -15,
+                "AbsoluteValue": true,
+                "SkillName": "Strength"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 180,
+                "Duration": 300,
+                "Value": -15,
+                "AbsoluteValue": true,
+                "SkillName": "Vitality"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 55,
+                "AbsoluteValue": true,
+                "SkillName": "StressResistance"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 180,
+                "Duration": 300,
+                "Value": -55,
+                "AbsoluteValue": true,
+                "SkillName": "StressResistance"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 55,
+                "AbsoluteValue": true,
+                "SkillName": "Throwing"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "RecoilControl"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 180,
+                "Duration": 300,
+                "Value": -15,
+                "AbsoluteValue": true,
+                "SkillName": "RecoilControl"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 3000,
+                "Value": -15,
+                "AbsoluteValue": true,
+                "SkillName": "CovertMovement"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "LightVests"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": "HeavyVests"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 3000,
+                "Value": -15,
+                "AbsoluteValue": true,
+                "SkillName": "WeaponTreatment"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 100,
+                "AbsoluteValue": true,
+                "SkillName": "MagDrills"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 600,
+                "Value": 100,
+                "AbsoluteValue": true,
+                "SkillName": "Perception"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 28000,
+                "Value": -15,
+                "AbsoluteValue": true,
+                "SkillName": "Intellect"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 50,
+                "AbsoluteValue": true,
+                "SkillName": "Attention"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 28800,
+                "Value": -500,
+                "AbsoluteValue": true,
+                "SkillName": "Charisma"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 3000,
+                "Value": -15,
+                "AbsoluteValue": true,
+                "SkillName": "Memory"
+            },
+            {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 35,
+                "AbsoluteValue": true,
+                "SkillName": "RecoilControl"
+            }
+],
+"Wastelander Cocktail": [
+            {
+              "AbsoluteValue": true,
+              "BuffType": "MaxStamina",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 1800,
+              "SkillName": "",
+              "Value": -20
+            },
+            {
+              "AbsoluteValue": true,
+              "BuffType": "StaminaRate",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 1800,
+              "SkillName": "",
+              "Value": -1
+            },
+            {
+              "AbsoluteValue": true,
+              "BuffType": "HealthRate",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 1800,
+              "SkillName": "",
+              "Value": -1
+            }
+],
+"blue_4loko_buff": [
+            {
+                "AbsoluteValue": true,
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "SkillName": "Endurance",
+                "Value": 1
+              },
+              {
+                "AbsoluteValue": true,
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "SkillName": "Strength",
+                "Value": 1
+              },
+              {
+                "AbsoluteValue": true,
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "SkillName": "MagDrills",
+                "Value": 1
+              },
+              {
+                "AbsoluteValue": true,
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 210,
+                "SkillName": "StressResistance",
+                "Value": 2
+              },
+              {
+                "AbsoluteValue": true,
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 210,
+                "SkillName": "Memory",
+                "Value": -3
+              },
+              {
+                "AbsoluteValue": true,
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 210,
+                "SkillName": "Health",
+                "Value": -2
+              },
+            {
+                "AbsoluteValue": true,
+                "BuffType": "HandsTremor",
+                "Chance": 1,
+                "Delay": 240,
+                "Duration": 120,
+                "SkillName": "",
+                "Value": 0
+            }
+],
+"green_4loko_buffs": [
+
+            {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 1,
+              "Duration": 300,
+              "SkillName": "MagDrills",
+              "Value": 2
+            },
+            {
+              "AbsoluteValue": true,
+              "BuffType": "EnergyRate",
+              "Chance": 1,
+              "Delay": 1,
+              "Duration": 60,
+              "SkillName": "",
+              "Value": 0.4
+            },
+            {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 1,
+              "Duration": 210,
+              "SkillName": "StressResistance",
+              "Value": 2
+            },
+            {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 1,
+              "Duration": 210,
+              "SkillName": "Memory",
+              "Value": -3
+            },
+            {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 1,
+              "Duration": 210,
+              "SkillName": "Health",
+              "Value": -2
+            },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "HandsTremor",
+              "Chance": 1,
+              "Delay": 240,
+              "Duration": 120,
+              "SkillName": "",
+              "Value": 0
+          }
+],
+"orange_4loko_buffs": [
+          {
+              "AbsoluteValue": true,
+              "BuffType": "EnergyRate",
+              "Chance": 1,
+              "Delay": 1,
+              "Duration": 60,
+              "SkillName": "",
+              "Value": 2
+            },
+            {
+              "AbsoluteValue": true,
+              "BuffType": "StaminaRate",
+              "Chance": 1,
+              "Delay": 1,
+              "Duration": 300,
+              "SkillName": "",
+              "Value": 1.2
+            },
+            {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 1,
+              "Duration": 210,
+              "SkillName": "StressResistance",
+              "Value": 2
+            },
+            {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 1,
+              "Duration": 210,
+              "SkillName": "Memory",
+              "Value": -3
+            },
+            {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 1,
+              "Duration": 210,
+              "SkillName": "Health",
+              "Value": -2
+            },
+            {
+              "AbsoluteValue": true,
+              "BuffType": "HandsTremor",
+              "Chance": 1,
+              "Delay": 220,
+              "Duration": 60,
+              "SkillName": "",
+              "Value": 0
+            },
+            {
+                "AbsoluteValue": true,
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "SkillName": "MagDrills",
+                "Value": 1
+              }
+  
+],
+"strawberry_4loko_buffs": [
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 1,
+              "Duration": 210,
+              "SkillName": "StressResistance",
+              "Value": 2
+            },
+            {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 1,
+              "Duration": 210,
+              "SkillName": "Memory",
+              "Value": 3
+            },
+            {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 1,
+              "Duration": 300,
+              "SkillName": "MagDrills",
+              "Value": 1
+            },
+              {
+                "AbsoluteValue": true,
+                "BuffType": "BodyTemperature",
+                "Chance": 1,
+                "Delay": 0,
+                "Duration": 15,
+                "SkillName": "",
+                "Value": -0.1
+              },
+            {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 1,
+              "Duration": 210,
+              "SkillName": "Health",
+              "Value": -2
+            },
+            {
+              "AbsoluteValue": true,
+              "BuffType": "HandsTremor",
+              "Chance": 1,
+              "Delay": 220,
+              "Duration": 60,
+              "SkillName": "",
+              "Value": 0
+            }
+],
+"yellow_4loko_buffs": [
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 400,
+              "SkillName": "Endurance",
+              "Value": 5
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 150,
+              "Duration": 180,
+              "SkillName": "Health",
+              "Value": -40
+            },
+            {
+              "AbsoluteValue": true,
+              "BuffType": "HealthRate",
+              "Chance": 1,
+              "Delay": 1,
+              "Duration": 50,
+              "SkillName": "",
+              "Value": 3
+            },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 400,
+              "SkillName": "Strength",
+              "Value": 3
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 401,
+              "Duration": 400,
+              "SkillName": "Strength",
+              "Value": -3
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "StaminaRate",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 400,
+              "SkillName": "",
+              "Value": 0.5
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "MaxStamina",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 400,
+              "SkillName": "",
+              "Value": 5
+          },
+          {
+              "AbsoluteValue": false,
+              "BuffType": "WeightLimit",
+              "Chance": 1,
+              "Delay": 1,
+              "Duration": 400,
+              "SkillName": "",
+              "Value": -1
+            },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 400,
+              "Duration": 120,
+              "SkillName": "Health",
+              "Value": -10
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 400,
+              "Duration": 120,
+              "SkillName": "Vitality",
+              "Value": -10
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "EnergyRate",
+              "Chance": 1,
+              "Delay": 400,
+              "Duration": 50,
+              "SkillName": "",
+              "Value": -1
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "HandsTremor",
+              "Chance": 1,
+              "Delay": 400,
+              "Duration": 120,
+              "SkillName": "",
+              "Value": 0
+          },
+          {
+            "AbsoluteValue": true,
+            "BuffType": "SkillRate",
+            "Chance": 1,
+            "Delay": 1,
+            "Duration": 300,
+            "SkillName": "MagDrills",
+            "Value": 1
+          }
+],
+"red_4loko_buffs": [
+          {
+              "AbsoluteValue": true,
+              "BuffType": "StaminaRate",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 240,
+              "SkillName": "",
+              "Value": 2
+          },
+          {
+            "AbsoluteValue": true,
+            "BuffType": "SkillRate",
+            "Chance": 1,
+            "Delay": 1,
+            "Duration": 300,
+            "SkillName": "MagDrills",
+            "Value": 1
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "MaxStamina",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 240,
+              "SkillName": "",
+              "Value": 35
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 240,
+              "Duration": 120,
+              "SkillName": "Health",
+              "Value": -15
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 240,
+              "Duration": 120,
+              "SkillName": "Vitality",
+              "Value": -15
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "EnergyRate",
+              "Chance": 1,
+              "Delay": 242,
+              "Duration": 120,
+              "SkillName": "",
+              "Value": -2
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "HandsTremor",
+              "Chance": 1,
+              "Delay": 240,
+              "Duration": 120,
+              "SkillName": "",
+              "Value": 0
+          }
+], 
+"galactic_4loko_buffs": [
+          {
+              "AbsoluteValue": true,
+              "BuffType": "StaminaRate",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 240,
+              "SkillName": "",
+              "Value": 3
+          },
+          {
+            "AbsoluteValue": true,
+            "BuffType": "SkillRate",
+            "Chance": 1,
+            "Delay": 1,
+            "Duration": 360,
+            "SkillName": "MagDrills",
+            "Value": 2
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 1,
+              "Duration": 210,
+              "SkillName": "Memory",
+              "Value": 3
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "MaxStamina",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 240,
+              "SkillName": "",
+              "Value": 35
+          },
+              {
+                "AbsoluteValue": true,
+                "BuffType": "BodyTemperature",
+                "Chance": 1,
+                "Delay": 0,
+                "Duration": 15,
+                "SkillName": "",
+                "Value": -0.1
+              },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 240,
+              "Duration": 120,
+              "SkillName": "Health",
+              "Value": -15
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 240,
+              "Duration": 120,
+              "SkillName": "Vitality",
+              "Value": -15
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "EnergyRate",
+              "Chance": 1,
+              "Delay": 242,
+              "Duration": 120,
+              "SkillName": "",
+              "Value": -2
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "HandsTremor",
+              "Chance": 1,
+              "Delay": 240,
+              "Duration": 120,
+              "SkillName": "",
+              "Value": 0
+          }
+],
+"bold_4loko_buffs": [
+          {
+              "AbsoluteValue": true,
+              "BuffType": "StaminaRate",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 240,
+              "SkillName": "",
+              "Value": 1.5
+          },
+          {
+            "AbsoluteValue": true,
+            "BuffType": "SkillRate",
+            "Chance": 1,
+            "Delay": 1,
+            "Duration": 330,
+            "SkillName": "MagDrills",
+            "Value": 2
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "MaxStamina",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 240,
+              "SkillName": "",
+              "Value": 40
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 240,
+              "Duration": 120,
+              "SkillName": "Health",
+              "Value": -10
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 240,
+              "Duration": 120,
+              "SkillName": "Vitality",
+              "Value": -10
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "EnergyRate",
+              "Chance": 1,
+              "Delay": 242,
+              "Duration": 120,
+              "SkillName": "",
+              "Value": -1.2
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "HandsTremor",
+              "Chance": 1,
+              "Delay": 240,
+              "Duration": 90,
+              "SkillName": "",
+              "Value": 0
+          }
+],
+"peach_4loko_buffs": [
+          {
+              "AbsoluteValue": true,
+              "BuffType": "HealthRate",
+              "Chance": 1,
+              "Delay": 1,
+              "Duration": 300,
+              "SkillName": "",
+              "Value": 0.74
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 300,
+              "SkillName": "Perception",
+              "Value": 3
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 300,
+              "SkillName": "Intellect",
+              "Value": 15
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 300,
+              "SkillName": "Attention",
+              "Value": 10
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 300,
+              "SkillName": "Search",
+              "Value": 20
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 301,
+              "Duration": 300,
+              "SkillName": "Search",
+              "Value": -20
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 1,
+              "Duration": 120,
+              "SkillName": "Vitality",
+              "Value": 8
+          },
+            {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 300,
+              "Duration": 120,
+              "SkillName": "Vitality",
+              "Value": -15
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "EnergyRate",
+              "Chance": 1,
+              "Delay": 300,
+              "Duration": 40,
+              "SkillName": "",
+              "Value": -5
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "HandsTremor",
+              "Chance": 1,
+              "Delay": 300,
+              "Duration": 300,
+              "SkillName": "",
+              "Value": 0
+          },
+          {
+            "AbsoluteValue": true,
+            "BuffType": "SkillRate",
+            "Chance": 1,
+            "Delay": 1,
+            "Duration": 300,
+            "SkillName": "MagDrills",
+            "Value": 1
+          }
+],
+"blackcherry_4loko_buffs": [
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 300,
+              "SkillName": "Endurance",
+              "Value": 10
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "StaminaRate",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 300,
+              "SkillName": "",
+              "Value": 3
+          },
+          {
+              "AbsoluteValue": false,
+              "BuffType": "DamageModifier",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 300,
+              "SkillName": "",
+              "Value": -0.2
+            },
+            {
+              "AbsoluteValue": false,
+              "BuffType": "DamageModifier",
+              "Chance": 1,
+              "Delay": 301,
+              "Duration": 300,
+              "SkillName": "",
+              "Value": 0.2
+            },
+            {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 300,
+              "Duration": 120,
+              "SkillName": "Health",
+              "Value": -13
+          },
+            {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 300,
+              "Duration": 120,
+              "SkillName": "Vitality",
+              "Value": -13
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "EnergyRate",
+              "Chance": 1,
+              "Delay": 300,
+              "Duration": 60,
+              "SkillName": "",
+              "Value": -2
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "HandsTremor",
+              "Chance": 1,
+              "Delay": 300,
+              "Duration": 120,
+              "SkillName": "",
+              "Value": 0
+          },
+          {
+            "AbsoluteValue": true,
+            "BuffType": "SkillRate",
+            "Chance": 1,
+            "Delay": 1,
+            "Duration": 300,
+            "SkillName": "MagDrills",
+            "Value": 1
+          }
+],
+"purple_4loko_buffs": [
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 300,
+              "SkillName": "Endurance",
+              "Value": 10
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "StaminaRate",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 300,
+              "SkillName": "",
+              "Value": 1
+          },
+          {
+              "AbsoluteValue": false,
+              "BuffType": "DamageModifier",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 300,
+              "SkillName": "",
+              "Value": -0.2
+            },
+            {
+              "AbsoluteValue": false,
+              "BuffType": "DamageModifier",
+              "Chance": 1,
+              "Delay": 301,
+              "Duration": 300,
+              "SkillName": "",
+              "Value": 0.2
+            },
+            {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 300,
+              "Duration": 120,
+              "SkillName": "Health",
+              "Value": -13
+          },
+        {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 300,
+              "Duration": 120,
+              "SkillName": "Vitality",
+              "Value": -11
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "EnergyRate",
+              "Chance": 1,
+              "Delay": 300,
+              "Duration": 60,
+              "SkillName": "",
+              "Value": -1.7
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "HandsTremor",
+              "Chance": 1,
+              "Delay": 300,
+              "Duration": 120,
+              "SkillName": "",
+              "Value": 0
+          },
+          {
+            "AbsoluteValue": true,
+            "BuffType": "SkillRate",
+            "Chance": 1,
+            "Delay": 1,
+            "Duration": 150,
+            "SkillName": "MagDrills",
+            "Value": 1
+          }
+],
+"mango_4loko_buffs": [
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 240,
+              "SkillName": "Endurance",
+              "Value": 6
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 240,
+              "SkillName": "Strength",
+              "Value": 8
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "StaminaRate",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 240,
+              "SkillName": "",
+              "Value": 0.2
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "MaxStamina",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 240,
+              "SkillName": "",
+              "Value": 5
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "HealthRate",
+              "Chance": 1,
+              "Delay": 1,
+              "Duration": 240,
+              "SkillName": "",
+              "Value": 1.2
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 240,
+              "SkillName": "Health",
+              "Value": 17
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 240,
+              "SkillName": "Immunity",
+              "Value": 30
+          },
+          {
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 240,
+              "AbsoluteValue": true,
+              "SkillName": "StressResistance",
+              "Value": 33
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 240,
+              "Duration": 120,
+              "SkillName": "Health",
+              "Value": -14
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 240,
+              "Duration": 120,
+              "SkillName": "Vitality",
+              "Value": -12
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "EnergyRate",
+              "Chance": 1,
+              "Delay": 240,
+              "Duration": 60,
+              "SkillName": "",
+              "Value": -1.6
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "HandsTremor",
+              "Chance": 1,
+              "Delay": 240,
+              "Duration": 360,
+              "SkillName": "",
+              "Value": 0
+          },
+          {
+            "AbsoluteValue": true,
+            "BuffType": "SkillRate",
+            "Chance": 1,
+            "Delay": 1,
+            "Duration": 300,
+            "SkillName": "MagDrills",
+            "Value": 1
+          }
+],
+"rocka_lsd_buffs": [
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 360,
+              "SkillName": "Endurance",
+              "Value": 30
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "StaminaRate",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 360,
+              "SkillName": "",
+              "Value": -2
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "MaxStamina",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 360,
+              "SkillName": "",
+              "Value": -20
+          },
+          {
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 360,
+              "AbsoluteValue": true,
+              "SkillName": "StressResistance",
+              "Value": 100
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 360,
+              "SkillName": "HeavyVests",
+              "Value": 30
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 360,
+              "SkillName": "LightVests",
+              "Value": 30
+          },
+          {
+              "AbsoluteValue": false,
+              "BuffType": "DamageModifier",
+              "Chance": 1,
+              "Delay": 120,
+              "Duration": 420,
+              "SkillName": "",
+              "Value": -0.15
+            },
+              {
+                "AbsoluteValue": true,
+                "BuffType": "BodyTemperature",
+                "Chance": 1,
+                "Delay": 3,
+                "Duration": 300,
+                "SkillName": "",
+                "Value": -0.1
+              },
+            {
+              "AbsoluteValue": true,
+              "BuffType": "HealthRate",
+              "Chance": 1,
+              "Delay": 1,
+              "Duration": 360,
+              "SkillName": "",
+              "Value": 1.5
+            },
+            {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 360,
+              "Duration": 120,
+              "SkillName": "Health",
+              "Value": 10
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 360,
+              "Duration": 120,
+              "SkillName": "Vitality",
+              "Value": 10
+          },
+            {
+              "AbsoluteValue": true,
+              "BuffType": "EnergyRate",
+              "Chance": 1,
+              "Delay": 360,
+              "Duration": 60,
+              "SkillName": "",
+              "Value": -2.0
+          },
+            {
+                "AbsoluteValue": true,
+                "BuffType": "QuantumTunnelling",
+                "Chance": 1,
+                "Delay": 0,
+                "Duration": 30,
+                "SkillName": "",
+                "Value": 0
+            },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "HandsTremor",
+              "Chance": 1,
+              "Delay": 240,
+              "Duration": 360,
+              "SkillName": "",
+              "Value": 0
+          },
+          {
+            "AbsoluteValue": true,
+            "BuffType": "SkillRate",
+            "Chance": 1,
+            "Delay": 1,
+            "Duration": 300,
+            "SkillName": "MagDrills",
+            "Value": 1
+          }
+],
+"thc_gummy_buffs": [
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 140,
+              "SkillName": "Endurance",
+              "Value": -25
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 140,
+              "SkillName": "Strength",
+              "Value": -15
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "StaminaRate",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 140,
+              "SkillName": "",
+              "Value": -0.5
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "MaxStamina",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 140,
+              "SkillName": "",
+              "Value": 20
+          },
+          {
+              "AbsoluteValue": false,
+              "BuffType": "WeightLimit",
+              "Chance": 1,
+              "Delay": 1,
+              "Duration": 140,
+              "SkillName": "",
+              "Value": 0.15
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 1,
+              "Duration": 120,
+              "SkillName": "Health",
+              "Value": 10
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "SkillRate",
+              "Chance": 1,
+              "Delay": 1,
+              "Duration": 120,
+              "SkillName": "Vitality",
+              "Value": 10
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "EnergyRate",
+              "Chance": 1,
+              "Delay": 140,
+              "Duration": 60,
+              "SkillName": "",
+              "Value": -1
+          }
+],
+"redbull_buffs": [
+          {
+              "AbsoluteValue": true,
+              "BuffType": "StaminaRate",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 40,
+              "SkillName": "",
+              "Value": 1.5
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "MaxStamina",
+              "Chance": 1,
+              "Delay": 0,
+              "Duration": 90,
+              "SkillName": "",
+              "Value": 30
+          },
+          {
+              "AbsoluteValue": true,
+              "BuffType": "EnergyRate",
+              "Chance": 1,
+              "Delay": 1,
+              "Duration": 45,
+              "SkillName": "",
+              "Value": 0.2
+          },
+          {
+            "AbsoluteValue": true,
+            "BuffType": "SkillRate",
+            "Chance": 1,
+            "Delay": 1,
+            "Duration": 300,
+            "SkillName": "MagDrills",
+            "Value": 1
+          }
+],
+"redbull_dragonfruit_buffs": [
+        {
+            "AbsoluteValue": true,
+            "BuffType": "StaminaRate",
+            "Chance": 1,
+            "Delay": 0,
+            "Duration": 60,
+            "SkillName": "",
+            "Value": 1.5
+        },
+        {
+            "AbsoluteValue": true,
+            "BuffType": "MaxStamina",
+            "Chance": 1,
+            "Delay": 0,
+            "Duration": 90,
+            "SkillName": "",
+            "Value": 40
+        },
+        {
+          "AbsoluteValue": true,
+          "BuffType": "SkillRate",
+          "Chance": 1,
+          "Delay": 1,
+          "Duration": 300,
+          "SkillName": "MagDrills",
+          "Value": 1
+        }
+],
+"redbull_orange_buffs": [
+        {
+            "AbsoluteValue": true,
+            "BuffType": "StaminaRate",
+            "Chance": 1,
+            "Delay": 0,
+            "Duration": 40,
+            "SkillName": "",
+            "Value": 1.5
+        },
+        {
+            "AbsoluteValue": true,
+            "BuffType": "SkillRate",
+            "Chance": 1,
+            "Delay": 1,
+            "Duration": 60,
+            "SkillName": "StressResistance",
+            "Value": 0.5
+          },
+        {
+            "AbsoluteValue": true,
+            "BuffType": "EnergyRate",
+            "Chance": 1,
+            "Delay": 1,
+            "Duration": 45,
+            "SkillName": "",
+            "Value": 0.2
+        },
+        {
+          "AbsoluteValue": true,
+          "BuffType": "SkillRate",
+          "Chance": 1,
+          "Delay": 1,
+          "Duration": 150,
+          "SkillName": "MagDrills",
+          "Value": 2
+        }
+],
+"redbull_peach_buffs": [
+        {
+            "AbsoluteValue": true,
+            "BuffType": "StaminaRate",
+            "Chance": 1,
+            "Delay": 0,
+            "Duration": 25,
+            "SkillName": "",
+            "Value": 1.7
+        },
+        {
+            "AbsoluteValue": true,
+            "BuffType": "MaxStamina",
+            "Chance": 1,
+            "Delay": 0,
+            "Duration": 60,
+            "SkillName": "",
+            "Value": 50
+        },
+        {
+            "AbsoluteValue": true,
+            "BuffType": "EnergyRate",
+            "Chance": 1,
+            "Delay": 1,
+            "Duration": 15,
+            "SkillName": "",
+            "Value": 1.5
+        },
+        {
+          "AbsoluteValue": true,
+          "BuffType": "SkillRate",
+          "Chance": 1,
+          "Delay": 1,
+          "Duration": 120,
+          "SkillName": "MagDrills",
+          "Value": 1.2
+        }
+],
+"redbull_blueberry_buffs": [
+        {
+            "AbsoluteValue": true,
+            "BuffType": "StaminaRate",
+            "Chance": 1,
+            "Delay": 0,
+            "Duration": 50,
+            "SkillName": "",
+            "Value": 0.5
+        },
+        {
+            "AbsoluteValue": true,
+            "BuffType": "MaxStamina",
+            "Chance": 1,
+            "Delay": 0,
+            "Duration": 60,
+            "SkillName": "",
+            "Value": 15
+        },
+        {
+            "AbsoluteValue": true,
+            "BuffType": "EnergyRate",
+            "Chance": 1,
+            "Delay": 1,
+            "Duration": 45,
+            "SkillName": "",
+            "Value": 0.2
+        },
+        {
+          "AbsoluteValue": true,
+          "BuffType": "SkillRate",
+          "Chance": 1,
+          "Delay": 1,
+          "Duration": 300,
+          "SkillName": "MagDrills",
+          "Value": 1
+        },
+        {
+            "AbsoluteValue": true,
+            "BuffType": "SkillRate",
+            "Chance": 1,
+            "Delay": 0,
+            "Duration": 60,
+            "SkillName": "Strength",
+            "Value": 1
+        }
+],
+"redbull_tropical_buffs": [
+        {
+            "AbsoluteValue": true,
+            "BuffType": "StaminaRate",
+            "Chance": 1,
+            "Delay": 0,
+            "Duration": 40,
+            "SkillName": "",
+            "Value": 1
+        },
+        {
+            "AbsoluteValue": true,
+            "BuffType": "SkillRate",
+            "Chance": 1,
+            "Delay": 1,
+            "Duration": 60,
+            "SkillName": "Endurance",
+            "Value": 1
+        },
+        {
+            "AbsoluteValue": true,
+            "BuffType": "SkillRate",
+            "Chance": 1,
+            "Delay": 1,
+            "Duration": 60,
+            "SkillName": "Vitality",
+            "Value": 1
+        },
+        {
+          "AbsoluteValue": true,
+          "BuffType": "SkillRate",
+          "Chance": 1,
+          "Delay": 1,
+          "Duration": 150,
+          "SkillName": "MagDrills",
+          "Value": 1
+        }
+],
+"redbull_watermelon_buffs": [
+        {
+            "AbsoluteValue": true,
+            "BuffType": "StaminaRate",
+            "Chance": 1,
+            "Delay": 0,
+            "Duration": 20,
+            "SkillName": "",
+            "Value": 3
+        },
+        {
+            "AbsoluteValue": true,
+            "BuffType": "MaxStamina",
+            "Chance": 1,
+            "Delay": 0,
+            "Duration": 60,
+            "SkillName": "",
+            "Value": 50
+        },
+        {
+            "AbsoluteValue": true,
+            "BuffType": "SkillRate",
+            "Chance": 1,
+            "Delay": 1,
+            "Duration": 150,
+            "SkillName": "RecoilControl",
+            "Value": 1
+        },
+        {
+          "AbsoluteValue": true,
+          "BuffType": "SkillRate",
+          "Chance": 1,
+          "Delay": 1,
+          "Duration": 150,
+          "SkillName": "MagDrills",
+          "Value": 1
+        }
+],
+"OmniMeal_buffs": [
+        {
+            "AbsoluteValue": true,
+            "BuffType": "StaminaRate",
+            "Chance": 1,
+            "Delay": 0,
+            "Duration": 120,
+            "SkillName": "",
+            "Value": -10
+        },
+        {
+            "AbsoluteValue": true,
+            "BuffType": "MaxStamina",
+            "Chance": 1,
+            "Delay": 0,
+            "Duration": 120,
+            "SkillName": "",
+            "Value": -15
+        },
+        {
+                "BuffType": "HandsTremor",
+                "Chance": 1,
+                "Delay": 60,
+                "Duration": 120,
+                "Value": 0,
+                "AbsoluteValue": true,
+                "SkillName": ""
+        },
+            {
+                "AbsoluteValue": true,
+                "BuffType": "QuantumTunnelling",
+                "Chance": 1,
+                "Delay": 270,
+                "Duration": 30,
+                "SkillName": "",
+                "Value": 0
+            }
+],
+"HydroVita_buff": [
+        {
+            "AbsoluteValue": true,
+            "BuffType": "StaminaRate",
+            "Chance": 1,
+            "Delay": 0,
+            "Duration": 120,
+            "SkillName": "",
+            "Value": 10
+        },
+        {
+            "AbsoluteValue": true,
+            "BuffType": "MaxStamina",
+            "Chance": 1,
+            "Delay": 0,
+            "Duration": 120,
+            "SkillName": "",
+            "Value": 15
+        },
+            {
+                "AbsoluteValue": true,
+                "BuffType": "QuantumTunnelling",
+                "Chance": 1,
+                "Delay": 270,
+                "Duration": 30,
+                "SkillName": "",
+                "Value": 0
+            },
+        {
+            "BuffType": "SkillRate",
+            "Chance": 1,
+            "Delay": 0,
+            "Duration": 120,
+            "Value": -5,
+            "AbsoluteValue": true,
+            "SkillName": "Vitality"
+        }
+],
+"Apisal Uranostem_II_buff": [
+        {
+            "AbsoluteValue": true,
+            "BuffType": "StaminaRate",
+            "Chance": 1,
+            "Delay": 0,
+            "Duration": 120,
+            "SkillName": "",
+            "Value": 15
+        },
+        {
+            "AbsoluteValue": true,
+            "BuffType": "MaxStamina",
+            "Chance": 1,
+            "Delay": 0,
+            "Duration": 120,
+            "SkillName": "",
+            "Value": 20
+        },
+            {
+                "AbsoluteValue": true,
+                "BuffType": "QuantumTunnelling",
+                "Chance": 1,
+                "Delay": 270,
+                "Duration": 30,
+                "SkillName": "",
+                "Value": 0
+            },
+        {
+            "BuffType": "SkillRate",
+            "Chance": 1,
+            "Delay": 0,
+            "Duration": 120,
+            "Value": 20,
+            "AbsoluteValue": true,
+            "SkillName": "Vitality"
+        },
+        {
+                "BuffType": "HealthRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 120,
+                "Value": 2,
+                "AbsoluteValue": true,
+                "SkillName": ""
+        },
+        {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 600,
+                "Value": 100,
+                "AbsoluteValue": true,
+                "SkillName": "Health"
+        }
+],
+"Apisal Uranostem_buff": [
+            {
+                "AbsoluteValue": true,
+                "BuffType": "QuantumTunnelling",
+                "Chance": 1,
+                "Delay": 270,
+                "Duration": 30,
+                "SkillName": "",
+                "Value": 0
+            },
+        {
+            "BuffType": "SkillRate",
+            "Chance": 1,
+            "Delay": 0,
+            "Duration": 120,
+            "Value": 20,
+            "AbsoluteValue": true,
+            "SkillName": "Vitality"
+        },
+        {
+                "BuffType": "HealthRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 900,
+                "Value": 10,
+                "AbsoluteValue": true,
+                "SkillName": ""
+        }
+],
+"Osteofortix_buff": [
+            {
+                "AbsoluteValue": true,
+                "BuffType": "QuantumTunnelling",
+                "Chance": 1,
+                "Delay": 270,
+                "Duration": 30,
+                "SkillName": "",
+                "Value": 0
+            },
+        {
+            "BuffType": "SkillRate",
+            "Chance": 1,
+            "Delay": 0,
+            "Duration": 120,
+            "Value": 20,
+            "AbsoluteValue": true,
+            "SkillName": "Vitality"
+        },
+        {
+                "BuffType": "SkillRate",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 300,
+                "Value": 50,
+                "AbsoluteValue": true,
+                "SkillName": "Strength"
+        },
+        {
+                "BuffType": "DamageModifier",
+                "Chance": 1,
+                "Delay": 1,
+                "Duration": 900,
+                "Value": 15,
+                "AbsoluteValue": true,
+                "SkillName": ""
+        }
+]
+
+}
+}

@@ -1,0 +1,1176 @@
+{
+	"66d5294bb2732bbf0d7f51b3": {
+		"itemTplToClone": "5448fee04bdc2dbc018b4567",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"StimulatorBuffs": "green_4loko_buffs",
+			"Prefab": {
+				"path": "Food_Items/4Loko/food_4loko_green_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/4Loko/food_4loko_green.bundle",
+				"rcid": ""
+			},
+			"effects_health": {
+				"Hydration": {
+					"value": 25
+				},
+				"Energy": {
+					"value": 40
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Four Loko Watermelon",
+				"shortName": "4Loko",
+				"description": "Four Loko is a line of flavored malt beverages sold by Phusion Projects, a Chicago-based company. Introduced in 2005, Four Loko was initially marketed as an “energy beer” with a unique blend of ingredients, including caffeine, guarana, and taurine."
+			}
+		},
+		"clearClonedProps": false,
+		"fleaPriceRoubles": 75000,
+		"handbookPriceRoubles": 50000,
+		"addtoTraders": true,
+		"traders": {
+			"SKIER": {
+				"6900a7864217813c726d0ce9": {
+					"barterSettings": {
+						"loyalLevel": 1,
+						"unlimitedCount": false,
+						"stackObjectsCount": 5
+					},
+					"barters": [
+						{
+							"count": 650,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": ["LOOTCONTAINER_JACKET", "LOOTCONTAINER_DUFFLE_BAG_ADV", "LOOTCONTAINER_RATION_SUPPLY_CRATE"], 
+		"Probability": 50
+	},
+	"66d670424a66c0453ce2b2e0": {
+		"itemTplToClone": "5448fee04bdc2dbc018b4567",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"StimulatorBuffs": "blue_4loko_buff",
+			"Prefab": {
+				"path": "Food_Items/4Loko/food_4loko_blue_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/4Loko/food_4loko_blue.bundle",
+				"rcid": ""
+			},
+			"effects_health": {
+				"Hydration": {
+					"value": 25
+				},
+				"Energy": {
+					"value": 40
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Blue Mountain Four Loko",
+				"shortName": "4Loko",
+				"description": "Four Loko is a line of flavored malt beverages sold by Phusion Projects, a Chicago-based company. Introduced in 2005, Four Loko was initially marketed as an “energy beer” with a unique blend of ingredients, including caffeine, guarana, and taurine."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_magazine"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 75000,
+		"handbookPriceRoubles": 50000,
+		"addtoTraders": true,
+		"traders": {
+			"SKIER": {
+				"6900a8ccbcea92c644d40694": {
+					"barterSettings": {
+						"loyalLevel": 1,
+						"unlimitedCount": false,
+						"stackObjectsCount": 5
+					},
+					"barters": [
+						{
+							"count": 650,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": ["LOOTCONTAINER_JACKET", "LOOTCONTAINER_DUFFLE_BAG_ADV", "LOOTCONTAINER_RATION_SUPPLY_CRATE"], 
+		"Probability":  50
+	},
+	"66d6708ae974feef81150037": {
+		"itemTplToClone": "5448fee04bdc2dbc018b4567",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"StimulatorBuffs": "orange_4loko_buffs",
+			"Prefab": {
+				"path": "Food_Items/4Loko/food_4loko_orange_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/4Loko/food_4loko_orange.bundle",
+				"rcid": ""
+			},
+			"effects_health": {
+				"Hydration": {
+					"value": 25
+				},
+				"Energy": {
+					"value": 40
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Orange Four Loko",
+				"shortName": "4Loko",
+				"description": "Four Loko is a line of flavored malt beverages sold by Phusion Projects, a Chicago-based company. Introduced in 2005, Four Loko was initially marketed as an “energy beer” with a unique blend of ingredients, including caffeine, guarana, and taurine."
+			}
+		},
+		"clearClonedProps": false,
+		"fleaPriceRoubles": 75000,
+		"handbookPriceRoubles": 50000,
+		"addtoTraders": true,
+		"traders": {
+			"SKIER": {
+				"6900a929e27c38323765ef44": {
+					"barterSettings": {
+						"loyalLevel": 1,
+						"unlimitedCount": false,
+						"stackObjectsCount": 5
+					},
+					"barters": [
+						{
+							"count": 650,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": ["LOOTCONTAINER_JACKET", "LOOTCONTAINER_DUFFLE_BAG_ADV", "LOOTCONTAINER_RATION_SUPPLY_CRATE"], 
+		"Probability":  50
+	},
+	"66d670dc60343990107f8596": {
+		"itemTplToClone": "5448fee04bdc2dbc018b4567",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"StimulatorBuffs": "peach_4loko_buffs",
+			"Prefab": {
+				"path": "Food_Items/4Loko/food_4loko_peach_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/4Loko/food_4loko_peach.bundle",
+				"rcid": ""
+			},
+			"effects_health": {
+				"Hydration": {
+					"value": 35
+				},
+				"Energy": {
+					"value": 40
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Peach Four Loko",
+				"shortName": "4Loko",
+				"description": "Four Loko is a line of flavored malt beverages sold by Phusion Projects, a Chicago-based company. Introduced in 2005, Four Loko was initially marketed as an “energy beer” with a unique blend of ingredients, including caffeine, guarana, and taurine."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_magazine"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 95000,
+		"handbookPriceRoubles": 65000,
+		"addtoTraders": true,
+		"traders": {
+			"SKIER": {
+				"6900a9e2f06981c194c59acb": {
+					"barterSettings": {
+						"loyalLevel": 2,
+						"unlimitedCount": false,
+						"stackObjectsCount": 5
+					},
+					"barters": [
+						{
+							"count": 800,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": ["LOOTCONTAINER_JACKET", "LOOTCONTAINER_DUFFLE_BAG_ADV", "LOOTCONTAINER_RATION_SUPPLY_CRATE"], 
+		"Probability":  40
+	},
+	"66d67160c06816935ffd7c3a": {
+		"itemTplToClone": "5448fee04bdc2dbc018b4567",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"StimulatorBuffs": "purple_4loko_buffs",
+			"Prefab": {
+				"path": "Food_Items/4Loko/food_4loko_purple_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/4Loko/food_4loko_purple.bundle",
+				"rcid": ""
+			},
+			"effects_health": {
+				"Hydration": {
+					"value": 15
+				},
+				"Energy": {
+					"value": 40
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Grape Four Loko",
+				"shortName": "4Loko",
+				"description": "Four Loko is a line of flavored malt beverages sold by Phusion Projects, a Chicago-based company. Introduced in 2005, Four Loko was initially marketed as an “energy beer” with a unique blend of ingredients, including caffeine, guarana, and taurine."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_magazine"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 65000,
+		"handbookPriceRoubles": 50000,
+		"addtoTraders": true,
+		"traders": {
+			"SKIER": {
+				"6900aa0ef2aaac4c6f3593c1": {
+					"barterSettings": {
+						"loyalLevel": 1,
+						"unlimitedCount": false,
+						"stackObjectsCount": 5
+					},
+					"barters": [
+						{
+							"count": 500,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": ["LOOTCONTAINER_JACKET", "LOOTCONTAINER_DUFFLE_BAG_ADV", "LOOTCONTAINER_RATION_SUPPLY_CRATE"], 
+		"Probability":  50
+	},
+	"66d6719af77b8afdcb33671d": {
+		"itemTplToClone": "5448fee04bdc2dbc018b4567",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"StimulatorBuffs": "red_4loko_buffs",
+			"Prefab": {
+				"path": "Food_Items/4Loko/food_4loko_punch_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/4Loko/food_4loko_punch.bundle",
+				"rcid": ""
+			},
+			"effects_health": {
+				"Hydration": {
+					"value": 25
+				},
+				"Energy": {
+					"value": 40
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Fruit Punch Four Loko",
+				"shortName": "4Loko",
+				"description": "Four Loko is a line of flavored malt beverages sold by Phusion Projects, a Chicago-based company. Introduced in 2005, Four Loko was initially marketed as an “energy beer” with a unique blend of ingredients, including caffeine, guarana, and taurine."
+			}
+		},
+		"clearClonedProps": false,
+		"fleaPriceRoubles": 75000,
+		"handbookPriceRoubles": 50000,
+		"addtoTraders": true,
+		"traders": {
+			"SKIER": {
+				"6900aada310de4d69844760e": {
+					"barterSettings": {
+						"loyalLevel": 1,
+						"unlimitedCount": false,
+						"stackObjectsCount": 5
+					},
+					"barters": [
+						{
+							"count": 650,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": ["LOOTCONTAINER_JACKET", "LOOTCONTAINER_DUFFLE_BAG_ADV", "LOOTCONTAINER_RATION_SUPPLY_CRATE"], 
+		"Probability":  50
+	},
+	"66d671b5129b17aa1a2c4ef4": {
+		"itemTplToClone": "5448fee04bdc2dbc018b4567",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"StimulatorBuffs": "strawberry_4loko_buffs",
+			"Prefab": {
+				"path": "Food_Items/4Loko/food_4loko_strawberry_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/4Loko/food_4loko_strawberry.bundle",
+				"rcid": ""
+			},
+			"effects_health": {
+				"Hydration": {
+					"value": 35
+				},
+				"Energy": {
+					"value": 40
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Strawberry Lemonade Four Loko",
+				"shortName": "4Loko",
+				"description": "Four Loko is a line of flavored malt beverages sold by Phusion Projects, a Chicago-based company. Introduced in 2005, Four Loko was initially marketed as an “energy beer” with a unique blend of ingredients, including caffeine, guarana, and taurine."
+			}
+		},
+		"clearClonedProps": false,
+		"fleaPriceRoubles": 95000,
+		"handbookPriceRoubles": 65000,
+		"addtoTraders": true,
+		"traders": {
+			"SKIER": {
+				"6900ab2a79ec91ee4e59be7b": {
+					"barterSettings": {
+						"loyalLevel": 2,
+						"unlimitedCount": false,
+						"stackObjectsCount": 5
+					},
+					"barters": [
+						{
+							"count": 800,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": ["LOOTCONTAINER_JACKET", "LOOTCONTAINER_DUFFLE_BAG_ADV", "LOOTCONTAINER_RATION_SUPPLY_CRATE"], 
+		"Probability":  40
+	},
+	"66d672114797ef093ace89cd": {
+		"itemTplToClone": "5448fee04bdc2dbc018b4567",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"StimulatorBuffs": "yellow_4loko_buffs",
+			"Prefab": {
+				"path": "Food_Items/4Loko/food_4loko_yellow_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/4Loko/food_4loko_yellow.bundle",
+				"rcid": ""
+			},
+			"effects_health": {
+				"Hydration": {
+					"value": 25
+				},
+				"Energy": {
+					"value": 40
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Lemonade Four Loko",
+				"shortName": "4Loko",
+				"description": "Four Loko is a line of flavored malt beverages sold by Phusion Projects, a Chicago-based company. Introduced in 2005, Four Loko was initially marketed as an “energy beer” with a unique blend of ingredients, including caffeine, guarana, and taurine."
+			}
+		},
+		"clearClonedProps": false,
+		"fleaPriceRoubles": 75000,
+		"handbookPriceRoubles": 50000,
+		"addtoTraders": true,
+		"traders": {
+			"SKIER": {
+				"6900ab6ae9ae804dd8ed50bd": {
+					"barterSettings": {
+						"loyalLevel": 1,
+						"unlimitedCount": false,
+						"stackObjectsCount": 5
+					},
+					"barters": [
+						{
+							"count": 650,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": ["LOOTCONTAINER_JACKET", "LOOTCONTAINER_DUFFLE_BAG_ADV", "LOOTCONTAINER_RATION_SUPPLY_CRATE"], 
+		"Probability":  50
+	},
+	"66d6724a2d614534afc673ca": {
+		"itemTplToClone": "5448fee04bdc2dbc018b4567",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"StimulatorBuffs": "mango_4loko_buffs",
+			"Prefab": {
+				"path": "Food_Items/4Loko/food_4loko_mango_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/4Loko/food_4loko_mango.bundle",
+				"rcid": ""
+			},
+			"effects_health": {
+				"Hydration": {
+					"value": 35
+				},
+				"Energy": {
+					"value": 40
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Mango Four Loko",
+				"shortName": "4Loko",
+				"description": "Four Loko is a line of flavored malt beverages sold by Phusion Projects, a Chicago-based company. Introduced in 2005, Four Loko was initially marketed as an “energy beer” with a unique blend of ingredients, including caffeine, guarana, and taurine."
+			}
+		},
+		"clearClonedProps": false,
+		"fleaPriceRoubles": 95000,
+		"handbookPriceRoubles": 65000,
+		"addtoTraders": true,
+		"traders": {
+			"SKIER": {
+				"6900abff351d21266be73193": {
+					"barterSettings": {
+						"loyalLevel": 2,
+						"unlimitedCount": false,
+						"stackObjectsCount": 5
+					},
+					"barters": [
+						{
+							"count": 800,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": ["LOOTCONTAINER_JACKET", "LOOTCONTAINER_DUFFLE_BAG_ADV", "LOOTCONTAINER_RATION_SUPPLY_CRATE"], 
+		"Probability":  50
+	},
+    "68301e495101b8e85725a5bd": {
+		"itemTplToClone": "5448fee04bdc2dbc018b4567",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"StimulatorBuffs": "blackcherry_4loko_buffs",
+			"Prefab": {
+				"path": "Food_Items/4Loko/food_4loko_blackcherry_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/4Loko/food_4loko_blackcherry.bundle",
+				"rcid": ""
+			},
+			"effects_health": {
+				"Hydration": {
+					"value": -35
+				},
+				"Energy": {
+					"value": 40
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Black Cherry Four Loko",
+				"shortName": "4Loko",
+				"description": "Four Loko is a line of flavored malt beverages sold by Phusion Projects, a Chicago-based company. Introduced in 2005, Four Loko was initially marketed as an “energy beer” with a unique blend of ingredients, including caffeine, guarana, and taurine."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_magazine"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 95000,
+		"handbookPriceRoubles": 65000,
+		"addtoTraders": true,
+		"traders": {
+			"SKIER": {
+				"6900ac35f02c099dd92c0e39": {
+					"barterSettings": {
+						"loyalLevel": 2,
+						"unlimitedCount": false,
+						"stackObjectsCount": 5
+					},
+					"barters": [
+						{
+							"count": 800,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": ["LOOTCONTAINER_JACKET", "LOOTCONTAINER_DUFFLE_BAG_ADV", "LOOTCONTAINER_RATION_SUPPLY_CRATE"], 
+		"Probability":  35
+	},
+    "683020897a1984bc86e014e9": {
+		"itemTplToClone": "5448fee04bdc2dbc018b4567",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"StimulatorBuffs": "green_4loko_buffs",
+			"Prefab": {
+				"path": "Food_Items/4Loko/food_4loko_sourmelon_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/4Loko/food_4loko_sourmelon.bundle",
+				"rcid": ""
+			},
+			"effects_health": {
+				"Hydration": {
+					"value": 35
+				},
+				"Energy": {
+					"value": 45
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Sour Melon Four Loko",
+				"shortName": "4Loko",
+				"description": "Four Loko is a line of flavored malt beverages sold by Phusion Projects, a Chicago-based company. Introduced in 2005, Four Loko was initially marketed as an “energy beer” with a unique blend of ingredients, including caffeine, guarana, and taurine."
+			}
+		},
+		"clearClonedProps": false,
+		"fleaPriceRoubles": 95500,
+		"handbookPriceRoubles": 65500,
+		"addtoTraders": false,
+		"traders": {
+			"SKIER": {
+				"6900af971510ffaf9712885e": {
+					"barterSettings": {
+						"loyalLevel": 3,
+						"unlimitedCount": false,
+						"stackObjectsCount": 5
+					},
+					"barters": [
+						{
+							"count": 800,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": ["LOOTCONTAINER_JACKET", "LOOTCONTAINER_DUFFLE_BAG_ADV", "LOOTCONTAINER_RATION_SUPPLY_CRATE"], 
+		"Probability":  50
+	},
+    "683022ff5fd925a8327e42c0": {
+		"itemTplToClone": "5448fee04bdc2dbc018b4567",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"StimulatorBuffs": "green_4loko_buffs",
+			"Prefab": {
+				"path": "Food_Items/4Loko/food_4loko_sourapple_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/4Loko/food_4loko_sourapple.bundle",
+				"rcid": ""
+			},
+			"effects_health": {
+				"Hydration": {
+					"value": 35
+				},
+				"Energy": {
+					"value": 45
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Sour Apple Four Loko",
+				"shortName": "4Loko",
+				"description": "Four Loko is a line of flavored malt beverages sold by Phusion Projects, a Chicago-based company. Introduced in 2005, Four Loko was initially marketed as an “energy beer” with a unique blend of ingredients, including caffeine, guarana, and taurine."
+			}
+		},
+		"clearClonedProps": false,
+		"fleaPriceRoubles": 95500,
+		"handbookPriceRoubles": 65500,
+		"addtoTraders": false,
+		"traders": {
+			"SKIER": {
+				"6900afa41652eae773d160a1": {
+					"barterSettings": {
+						"loyalLevel": 3,
+						"unlimitedCount": false,
+						"stackObjectsCount": 5
+					},
+					"barters": [
+						{
+							"count": 800,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": ["LOOTCONTAINER_JACKET", "LOOTCONTAINER_DUFFLE_BAG_ADV", "LOOTCONTAINER_RATION_SUPPLY_CRATE"], 
+		"Probability":  35
+	},
+    "6830243106b81cc888494d1c": {
+		"itemTplToClone": "5448fee04bdc2dbc018b4567",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"StimulatorBuffs": "green_4loko_buffs",
+			"Prefab": {
+				"path": "Food_Items/4Loko/food_4loko_margarita_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/4Loko/food_4loko_margarita.bundle",
+				"rcid": ""
+			},
+			"effects_health": {
+				"Hydration": {
+					"value": 45
+				},
+				"Energy": {
+					"value": 40
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Margarita Four Loko",
+				"shortName": "4Loko",
+				"description": "Four Loko is a line of flavored malt beverages sold by Phusion Projects, a Chicago-based company. Introduced in 2005, Four Loko was initially marketed as an “energy beer” with a unique blend of ingredients, including caffeine, guarana, and taurine."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_magazine"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 100000,
+		"handbookPriceRoubles": 75000,
+		"addtoTraders": false,
+		"traders": {
+			"SKIER": {
+				"6900afb60102d12b2be1c07d": {
+					"barterSettings": {
+						"loyalLevel": 1,
+						"unlimitedCount": false,
+						"stackObjectsCount": 5
+					},
+					"barters": [
+						{
+							"count": 1050,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": ["LOOTCONTAINER_JACKET", "LOOTCONTAINER_DUFFLE_BAG_ADV", "LOOTCONTAINER_RATION_SUPPLY_CRATE"], 
+		"Probability":  30
+	},
+    "683024f6fac28eb32fdf9d7c": {
+		"itemTplToClone": "5448fee04bdc2dbc018b4567",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"StimulatorBuffs": "red_4loko_buffs",
+			"Prefab": {
+				"path": "Food_Items/4Loko/food_4loko_red_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/4Loko/food_4loko_red.bundle",
+				"rcid": ""
+			},
+			"effects_health": {
+				"Hydration": {
+					"value": 40
+				},
+				"Energy": {
+					"value": 40
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Four Loko Red",
+				"shortName": "4Loko",
+				"description": "Four Loko is a line of flavored malt beverages sold by Phusion Projects, a Chicago-based company. Introduced in 2005, Four Loko was initially marketed as an “energy beer” with a unique blend of ingredients, including caffeine, guarana, and taurine."
+			}
+		},
+		"clearClonedProps": false,
+		"fleaPriceRoubles": 95000,
+		"handbookPriceRoubles": 65000,
+		"addtoTraders": true,
+		"traders": {
+			"SKIER": {
+				"6900afbe95f00377bd96d79a": {
+					"barterSettings": {
+						"loyalLevel": 3,
+						"unlimitedCount": false,
+						"stackObjectsCount": 5
+					},
+					"barters": [
+						{
+							"count": 650,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": ["LOOTCONTAINER_JACKET", "LOOTCONTAINER_DUFFLE_BAG_ADV", "LOOTCONTAINER_RATION_SUPPLY_CRATE"], 
+		"Probability":  30
+	},
+    "683025c0600c37a6b8f5d337": {
+		"itemTplToClone": "5448fee04bdc2dbc018b4567",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"StimulatorBuffs": "galactic_4loko_buffs",
+			"Prefab": {
+				"path": "Food_Items/4Loko/food_4loko_galactic_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/4Loko/food_4loko_galactic.bundle",
+				"rcid": ""
+			},
+			"effects_health": {
+				"Hydration": {
+					"value": 60
+				},
+				"Energy": {
+					"value": 55
+				}
+			},
+			"effects_damage": {
+				"Pain": {
+					"delay": 0,
+					"duration": 210 
+				},
+			"RadExposure": {
+					"delay": 0,
+					"duration": 0
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Sour Galactic Punch Four Loko",
+				"shortName": "4Loko",
+				"description": "Super Special Sour Galactic PunchFour Loko. So Special, the picturer of the can is much clearer! Four Loko is a line of flavored malt beverages sold by Phusion Projects, a Chicago-based company. Introduced in 2005, Four Loko was initially marketed as an “energy beer” with a unique blend of ingredients, including caffeine, guarana, and taurine."
+			}
+		},
+		"clearClonedProps": false,
+		"fleaPriceRoubles": 175000,
+		"handbookPriceRoubles": 150000,
+		"addtoTraders": false,
+		"traders": {
+			"SKIER": {
+				"6900afc52e56cd93f6616ceb": {
+					"barterSettings": {
+						"loyalLevel": 4,
+						"unlimitedCount": false,
+						"stackObjectsCount": 5
+					},
+					"barters": [
+						{
+							"count": 3500,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": ["LOOTCONTAINER_JACKET", "LOOTCONTAINER_DUFFLE_BAG_ADV", "LOOTCONTAINER_RATION_SUPPLY_CRATE"], 
+		"Probability":  5
+	},
+    "683026d32570c28259f7c77e": {
+		"itemTplToClone": "5448fee04bdc2dbc018b4567",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"StimulatorBuffs": "bold_4loko_buffs",
+			"Prefab": {
+				"path": "Food_Items/4Loko/food_4loko_gold_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/4Loko/food_4loko_gold.bundle",
+				"rcid": ""
+			},
+			"effects_health": {
+				"Hydration": {
+					"value": 35
+				},
+				"Energy": {
+					"value": 60
+				}
+			},
+			"effects_damage": {
+				"Pain": {
+					"delay": 0,
+					"duration": 110 
+				},
+				"RadExposure": {
+					"delay": 0,
+					"duration": 0
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Four Loko Gold",
+				"shortName": "4Loko",
+				"description": "Four Loko is a line of flavored malt beverages sold by Phusion Projects, a Chicago-based company. Introduced in 2005, Four Loko was initially marketed as an “energy beer” with a unique blend of ingredients, including caffeine, guarana, and taurine."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_magazine"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 115000,
+		"handbookPriceRoubles": 100000,
+		"addtoTraders": false,
+		"traders": {
+			"SKIER": {
+				"6900afcddd170fea2a2e306e": {
+					"barterSettings": {
+						"loyalLevel": 4,
+						"unlimitedCount": false,
+						"stackObjectsCount": 1
+					},
+					"barters": [
+						{
+							"count": 2000,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": ["LOOTCONTAINER_JACKET", "LOOTCONTAINER_DUFFLE_BAG_ADV", "LOOTCONTAINER_RATION_SUPPLY_CRATE"], 
+		"Probability":  5
+	},
+    "6830271ac5628c92cf9a6f0b": {
+		"itemTplToClone": "5448fee04bdc2dbc018b4567",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"StimulatorBuffs": "bold_4loko_buffs",
+			"Prefab": {
+				"path": "Food_Items/4Loko/food_4loko_blaze_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/4Loko/food_4loko_blaze.bundle",
+				"rcid": ""
+			},
+			"effects_health": {
+				"Hydration": {
+					"value": 25
+				},
+				"Energy": {
+					"value": 60
+				}
+			},
+			"effects_damage": {
+				"Pain": {
+					"delay": 0,
+					"duration": 210 
+				},
+				"RadExposure": {
+					"delay": 0,
+					"duration": 0
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Four Loko Bold: Blaze",
+				"shortName": "4Loko",
+				"description": "Four Loko is a line of flavored malt beverages sold by Phusion Projects, a Chicago-based company. Introduced in 2005, Four Loko was initially marketed as an “energy beer” with a unique blend of ingredients, including caffeine, guarana, and taurine."
+			}
+		},
+		"clearClonedProps": false,
+		"fleaPriceRoubles": 120000,
+		"handbookPriceRoubles": 100000,
+		"addtoTraders": false,
+		"traders": {
+			"SKIER": {
+				"6900afd42f7b7e2ba2c99725": {
+					"barterSettings": {
+						"loyalLevel": 1,
+						"unlimitedCount": false,
+						"stackObjectsCount": 5
+					},
+					"barters": [
+						{
+							"count": 2000,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": ["LOOTCONTAINER_JACKET", "LOOTCONTAINER_DUFFLE_BAG_ADV", "LOOTCONTAINER_RATION_SUPPLY_CRATE"], 
+		"Probability":  10
+	},
+    "68302864c2c90f1024ee4779": {
+		"itemTplToClone": "5448fee04bdc2dbc018b4567",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"StimulatorBuffs": "bold_4loko_buffs",
+			"Prefab": {
+				"path": "Food_Items/4Loko/food_4loko_frost_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/4Loko/food_4loko_frost.bundle",
+				"rcid": ""
+			},
+			"effects_health": {
+				"Hydration": {
+					"value": 75
+				},
+				"Energy": {
+					"value": 30
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Four Loko Bold: Frost",
+				"shortName": "4Loko",
+				"description": "Four Loko is a line of flavored malt beverages sold by Phusion Projects, a Chicago-based company. Introduced in 2005, Four Loko was initially marketed as an “energy beer” with a unique blend of ingredients, including caffeine, guarana, and taurine."
+			}
+		},
+		"clearClonedProps": false,
+		"fleaPriceRoubles": 120000,
+		"handbookPriceRoubles": 100000,
+		"addtoTraders": false,
+		"traders": {
+			"SKIER": {
+				"6900afdcd38462b50dc106c2": {
+					"barterSettings": {
+						"loyalLevel": 3,
+						"unlimitedCount": false,
+						"stackObjectsCount": 1
+					},
+					"barters": [
+						{
+							"count": 2000,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": ["LOOTCONTAINER_JACKET", "LOOTCONTAINER_DUFFLE_BAG_ADV", "LOOTCONTAINER_RATION_SUPPLY_CRATE"], 
+		"Probability":  10
+	},
+    "683028f8de12b685fc244737": {
+		"itemTplToClone": "5448fee04bdc2dbc018b4567",
+		"parentId": "5448e8d64bdc2dce718b4568",
+		"handbookParentId": "5b47574386f77428ca22b335",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"MaxResource": 1,
+			"StimulatorBuffs": "bold_4loko_buffs",
+			"Prefab": {
+				"path": "Food_Items/4Loko/food_4loko_storm_loot.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "Food_Items/4Loko/food_4loko_storm.bundle",
+				"rcid": ""
+			},
+			"effects_health": {
+				"Hydration": {
+					"value": 55
+				},
+				"Energy": {
+					"value": 55
+				}
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "Four Loko Bold: Storm",
+				"shortName": "4Loko",
+				"description": "Four Loko is a line of flavored malt beverages sold by Phusion Projects, a Chicago-based company. Introduced in 2005, Four Loko was initially marketed as an “energy beer” with a unique blend of ingredients, including caffeine, guarana, and taurine."
+			}
+		},
+		"clearClonedProps": false,
+		"fleaPriceRoubles": 120000,
+		"handbookPriceRoubles": 100000,
+		"addtoTraders": false,
+		"traders": {
+			"SKIER": {
+				"6900afe3609f0b95b5a38cd1": {
+					"barterSettings": {
+						"loyalLevel": 1,
+						"unlimitedCount": false,
+						"stackObjectsCount": 1
+					},
+					"barters": [
+						{
+							"count": 2000,
+							"_tpl": "MONEY_DOLLARS"
+						}
+					]
+				}
+			}
+		},
+		"addtoBots": true,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainer": ["LOOTCONTAINER_JACKET", "LOOTCONTAINER_DUFFLE_BAG_ADV", "LOOTCONTAINER_RATION_SUPPLY_CRATE"], 
+		"Probability":  10
+	}
+}
